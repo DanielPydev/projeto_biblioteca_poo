@@ -1,4 +1,7 @@
-public interface IEmprestimo
+namespace MinhaBiblioteca.Models
 {
-    void Emprestar();
+    public interface IEmprestimo
+    {
+        void Emprestar();
+    }
 }
