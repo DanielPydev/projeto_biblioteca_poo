@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Unigran\\Documents\\materias_daniel\\poo_emerson\\trabFinal\\MinhaBiblioteca\\MinhaBiblioteca.csproj": {}
+    "C:\\Users\\Unigran\\Documents\\pedro047\\poo\\MinhaBiblioteca\\MinhaBiblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Unigran\\Documents\\materias_daniel\\poo_emerson\\trabFinal\\MinhaBiblioteca\\MinhaBiblioteca.csproj": {
+    "C:\\Users\\Unigran\\Documents\\pedro047\\poo\\MinhaBiblioteca\\MinhaBiblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Unigran\\Documents\\materias_daniel\\poo_emerson\\trabFinal\\MinhaBiblioteca\\MinhaBiblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\Unigran\\Documents\\pedro047\\poo\\MinhaBiblioteca\\MinhaBiblioteca.csproj",
         "projectName": "MinhaBiblioteca",
-        "projectPath": "C:\\Users\\Unigran\\Documents\\materias_daniel\\poo_emerson\\trabFinal\\MinhaBiblioteca\\MinhaBiblioteca.csproj",
+        "projectPath": "C:\\Users\\Unigran\\Documents\\pedro047\\poo\\MinhaBiblioteca\\MinhaBiblioteca.csproj",
         "packagesPath": "C:\\Users\\Unigran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Unigran\\Documents\\materias_daniel\\poo_emerson\\trabFinal\\MinhaBiblioteca\\obj\\",
+        "outputPath": "C:\\Users\\Unigran\\Documents\\pedro047\\poo\\MinhaBiblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Unigran\\AppData\\Roaming\\NuGet\\NuGet.Config"
