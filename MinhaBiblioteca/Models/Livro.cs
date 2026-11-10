@@ -20,8 +20,6 @@ public class Livro : MaterialBiblioteca, IEmprestimo
         Console.WriteLine($"Livro foi emprestado por {CalcularPrazo()} dias!");
     }
 
-
-
 }
 
 
