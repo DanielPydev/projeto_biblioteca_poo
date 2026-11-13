@@ -1,0 +1,48 @@
+## Ignorar arquivos temporários do Visual Studio e VS Code
+.vs/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Resultados de Build (Essencial para o seu projeto!)
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Arquivos de cache e pacotes do NuGet (Como os que aparecem na sua pasta obj)
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+project.assets.json
+project.fragment.lock.json
+artifacts/
+
+## Arquivos de configuração sensíveis (se necessário)
+# Descomente a linha abaixo se colocar senhas ou chaves de API nele
+# appsettings.Development.json
+
+## Arquivos do sistema operacional (Windows/Mac)
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
