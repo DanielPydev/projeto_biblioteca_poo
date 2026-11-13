@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\katia\\OneDrive\\Documentos\\faculdade\\POO\\bibilioteca\\MinhaBiblioteca\\MinhaBiblioteca.csproj": {}
+    "C:\\Users\\Unigran\\Documents\\materias_daniel\\poo_emerson\\trabFinal\\MinhaBiblioteca\\MinhaBiblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\katia\\OneDrive\\Documentos\\faculdade\\POO\\bibilioteca\\MinhaBiblioteca\\MinhaBiblioteca.csproj": {
+    "C:\\Users\\Unigran\\Documents\\materias_daniel\\poo_emerson\\trabFinal\\MinhaBiblioteca\\MinhaBiblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\katia\\OneDrive\\Documentos\\faculdade\\POO\\bibilioteca\\MinhaBiblioteca\\MinhaBiblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\Unigran\\Documents\\materias_daniel\\poo_emerson\\trabFinal\\MinhaBiblioteca\\MinhaBiblioteca.csproj",
         "projectName": "MinhaBiblioteca",
-        "projectPath": "C:\\Users\\katia\\OneDrive\\Documentos\\faculdade\\POO\\bibilioteca\\MinhaBiblioteca\\MinhaBiblioteca.csproj",
-        "packagesPath": "C:\\Users\\katia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\katia\\OneDrive\\Documentos\\faculdade\\POO\\bibilioteca\\MinhaBiblioteca\\obj\\",
+        "projectPath": "C:\\Users\\Unigran\\Documents\\materias_daniel\\poo_emerson\\trabFinal\\MinhaBiblioteca\\MinhaBiblioteca.csproj",
+        "packagesPath": "C:\\Users\\Unigran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Unigran\\Documents\\materias_daniel\\poo_emerson\\trabFinal\\MinhaBiblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\katia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Unigran\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -24,7 +24,6 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -39,11 +38,10 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.400"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "Swashbuckle.AspNetCore": {
@@ -70,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
